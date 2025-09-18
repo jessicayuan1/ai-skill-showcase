@@ -19,24 +19,24 @@ It should take **1–2 hours** and is meant to be fun and flexible.
 
 1. **Fork or clone** this repository.
 2. **Create a new branch** named `feature/<your-name>`.
-3. Add a Jupyter Notebook named `<your_name>_showcase.ipynb` that includes:
-   - A short markdown intro about yourself.
+3. Add a Google Colab named `<your_name>_showcase.ipynb` that includes:
    - **Step 1:** Generate or load **two images** (from data, synthetic, or AI model).
    - **Step 2:** Apply a transformation or train a simple model that produces different results.
    - **Step 3:** Display both original and transformed/predicted outcomes side-by-side.
-   - **Step 4:** Document your approach with markdown cells.
 4. **Commit and push** your branch.
-5. **Open a Merge Request (PR)** into `main` and request review.
+5. **Open a Merge Request (PR)** into `main`, document and explain your code in the description, then request review.
+6. Be prepared to explain in the interview along with any technical skills if we ask!
 
 ---
 
 ## ✅ Evaluation Criteria
 - Notebook runs end-to-end without errors.
 - Code is clear, commented, and reproducible.
-- Uses markdown to explain steps.
+- Explanation in the PR is **not written by GPT**, but with your own words. Doesn't have to be crazy.
+- Different from previous submissions. No p71s out here
 - Shows **two distinct images/outcomes**.
 - Follows Git workflow (branch, commit, MR).
-- You can use AI to generate code, but we expect you to understand what you're writing
+- You can use AI to bounce off ideas and get clarity, but we expect you to understand what you're writing
 - Shows your commitment and your technical skills (it is a team project after all)
 
 ---
