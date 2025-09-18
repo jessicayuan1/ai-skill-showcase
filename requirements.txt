@@ -3,3 +3,5 @@ jupyter
 matplotlib
 pillow
 scikit-learn
+kagglehub 
+pandas
