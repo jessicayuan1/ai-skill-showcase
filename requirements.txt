@@ -1,0 +1,11 @@
+ipykernel
+jupyter
+matplotlib
+pillow
+scikit-learn
+kagglehub 
+pandas
+torch
+torchvision
+matplotlib
+

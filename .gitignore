@@ -14,3 +14,6 @@ __pycache__/
 
 # Ignore Jupyter checkpoints
 .ipynb_checkpoints/
+
+#additional from main
+data
