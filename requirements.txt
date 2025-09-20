@@ -7,5 +7,6 @@ kagglehub
 pandas
 torch
 torchvision
-matplotlib
+requests
+numpy
 
